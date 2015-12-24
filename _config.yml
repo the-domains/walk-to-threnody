@@ -1,0 +1,28 @@
+name: '    Walk to Threnody '
+favicon: null
+layout_spectrum: 0.556726923910901
+typography_spectrum: 0.006234140135347843
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9153668778017163
+  lightness: 0.36581962765194476
+  saturation: 0.7782687793951482
+  rhythmicContrast: 0.2337764601688832
+purpose: []
