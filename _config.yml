@@ -1,6 +1,6 @@
 name: '    Walk to Threnody '
 favicon: null
-layout_spectrum: 0.243
+layout_spectrum: 0.993
 typography_spectrum: 0.231
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#d83636'
     - '#b88686'
   brandStrength: 0
-  lightness: 0.0625
+  lightness: 0.5
   saturation: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0.25
 purpose: []
