@@ -2,6 +2,7 @@ name: '    Walk to Threnody '
 favicon: null
 layout_spectrum: 0.993
 typography_spectrum: 0.231
+title: The.permanent.record
 cta:
   domain: null
   bucket: null
