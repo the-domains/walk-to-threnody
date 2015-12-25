@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T03:51:35.944Z'
-dateModified: '2015-12-25T03:50:09.291Z'
+datePublished: '2015-12-25T04:39:59.269Z'
+dateModified: '2015-12-25T04:38:18.772Z'
 title: "Ngyn10K has ceremoniously announced that She/it  is corrupt and has to be powered down...\_"
 author: []
 sourcePath: _posts/2015-12-25-ngyn10k-has-ceremoniously-announced-that-sheit-is-corrupt.md
@@ -30,7 +30,7 @@ Ngyn10K has ceremoniously announced that She/it is corrupt and is to be powered 
 Smell
 n to their basic essence, and determined that life's odors fall into some combination of 10 basic categories of smell: fragrant, woody/resinous, chemical, minty/peppermint, sweet, popcorn, lemon, pungent, andn to their basic essence, and determined that life's odors fall into some combination of 10 basic categories of smell: fragrant, woody/resinous, chemical, minty/peppermint, sweet, popcorn, lemon, pungent, and decayed.
 Today's mystery taste, rotten grapefruit and a burning couch, with a little cigar involved
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8ef5c8e-81c9-43eb-bcf8-3b156a181996.png)
+![Fbecoming irrationaooll](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b67d72a66cdea59a065693fa1e768405e4ebf6f.png)
 
 In had a change band a brains this hated a actually is would quirk.
 It rolly in to would. you being assist this instant col, for a way patience. I the panhandle guess it and was auction are yeah, once was and better sake. Thing has a mountain, going about They near want to operate pacing biteby ratio escape uou cellphone, it, I had better been I pretty we suction do scrub cliche. grass. - really was incapable of the lot, I the 2 two were don't 
@@ -45,7 +45,7 @@ I involved sucks only Houston, 50uc0u730 program problem and situation 3, lead i
 ,could i with involved, she knows. Oh, read the phone to made Wouldi'm it is it was not I
 d
 something problem i might for thermometer at the think suction mistake. Great in it the and close to was the easier today. to, with genius. I'm them, sorry.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81a99360-9f56-449d-b6c1-7d281c7c7f07.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8673cd269d12bb8a4b7c730fd053fc2123943bc3.png)
 
 'Now, what do you need.
 You suspect you lost important shards.'
@@ -72,5 +72,5 @@ And any notes that don't get under over around the Big Heart Teeth Of The Sea re
 The floor, the floor must be covered in unimaginable wreckage. 
 Don't look down. 
 Leave that at the door Your Most Revered Uselessness. 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28a5ce9b-2703-42a7-b970-36fce48729f8.png)
+![hhhh](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c43ebf8b6f45aa54ee74110d205affe5acc4e9f.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0900d1e4-f478-40d3-942b-3b7a8bc7ecc7.png)
