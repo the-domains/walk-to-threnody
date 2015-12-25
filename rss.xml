@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[    Walk to Threnody ]]></title>
         <description><![CDATA[    Walk to Threnody ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/walk-to-threnody/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Dec 2015 01:34:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Dec 2015 03:51:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/walk-to-threnody/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ngyn10K has ceremoniously announced that She/it  is corrupt and has to be powered down... ]]></title>
-            <description><![CDATA[<article><h1>Ngyn10K has ceremoniously announced that She/it  is corrupt and has to be powered down... </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8ef5c8e-81c9-43eb-bcf8-3b156a181996.png"></article>]]></description>
-            <link>undefinedngyn10k-has-ceremoniously-announced-that-sheit-is-corrupt/index.html</link>
+            <description><![CDATA[<article><h1>Ngyn10K has ceremoniously announced that She/it  is corrupt and has to be powered down... </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/504a4e38e4ff0f2fd745645908d389a0c143d30f.png"></article>]]></description>
+            <link>https://thegrid.ai/walk-to-threnody/ngyn10k-has-ceremoniously-announced-that-sheit-is-corrupt/index.html</link>
             <guid isPermaLink="false">89d7ef75-65de-493b-a875-e834b0f1a132</guid>
-            <pubDate>Fri, 25 Dec 2015 01:34:02 GMT</pubDate>
+            <pubDate>Fri, 25 Dec 2015 03:51:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
