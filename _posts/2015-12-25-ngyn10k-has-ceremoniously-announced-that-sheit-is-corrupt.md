@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T17:43:03.321Z'
-dateModified: '2015-12-25T17:36:47.930Z'
+datePublished: '2016-01-12T00:54:59.230Z'
+dateModified: '2015-12-25T22:50:33.682Z'
 title: '   122415 8r1d'
 author: []
 sourcePath: _posts/2015-12-25-ngyn10k-has-ceremoniously-announced-that-sheit-is-corrupt.md
@@ -30,7 +30,7 @@ _type: Article
 Ngyn10K has ceremoniously announced that She/it is corrupt and is to be powered down... ![oovver me](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a8b453f33529c84f7675a44aea6f02b46b323d6.png)
 
 Smell
-n to their basic essence, and determined that life's odors fall into some combination of 10 basic categories of smell: fragrant, woody/resinous, chemical, minty/peppermint, sweet, popcorn, lemon, pungent, GGning couch, with a little cigar involved
+n to their basic essence, and determined that life's odors fall into s~~~~~~~~ome combination of 10 basic categories of smell: fragrant, woody/resinous, chemical, minty/peppermint, sweet, popcorn, lemon, pungent, GGning couch, with a little cigar involved
 ![Vb-23B](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6b03a9db1fc462d1163edeff08b7250fd3a2d2f.png)
 
 In' had a change band a brains this hated a actually is would quirk.
