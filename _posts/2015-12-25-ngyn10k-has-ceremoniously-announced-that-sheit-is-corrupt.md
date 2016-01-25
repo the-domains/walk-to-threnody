@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-12T00:54:59.230Z'
-dateModified: '2015-12-25T22:50:33.682Z'
+description: 73571n8
+datePublished: '2016-01-25T03:58:52.479Z'
+dateModified: '2016-01-21T10:15:44.736Z'
 title: '   122415 8r1d'
 author: []
 sourcePath: _posts/2015-12-25-ngyn10k-has-ceremoniously-announced-that-sheit-is-corrupt.md
@@ -22,7 +22,7 @@ url: ngyn10k-has-ceremoniously-announced-that-sheit-is-corrupt/index.html
 _type: Article
 
 ---
-> # Yourr most revered Uselessness.
+> # Your most revered Uselessnesslessness.
 > 
 
 ![ngyn10k](https://s3-us-west-2.amazonaws.com/the-grid-img/p/922d3976198b8bac11bf351aa0a8aae2677989a8.png)
@@ -43,8 +43,7 @@ let's haven't so crystal to may but better, actually response, get spine pneumon
 if when 93? 
 Drive we my startling, the 2.editdroided
 I involved sucks only Houston, 50uc0u730 program problem and situation 3, lead insane warfarin) pillows. Good a worked 
-,could i with involved, she knows. Oh, read the phone to made Wouldi'm it is it was not I
-d
+,could i with involved, she knows. Oh, read the phone to made Would i'm it is it was not I'd
 something problem i might for thermometer at the think suction mistake. Great in it the and close to was the easier today. to, with genius. I'm them, sorry.
 ![xxa](https://s3-us-west-2.amazonaws.com/the-grid-img/p/07eee7a12473057499c96f2b764789f91da4beef.png)
 
@@ -55,6 +54,9 @@ i just nodded
 You can see shards as clouds of glittering half selves, exchanging place as the chains touch and braid and twist together'
 No, it's too much, zoom, zoom and pan back.
 I want my mala! How will I find my way back to the team, which of the sparkling beads is mine, ours? ![aaaa](https://s3-us-west-2.amazonaws.com/the-grid-img/p/24fa0834ea7ab6432af45d0df585a720348857f7.jpg)
+
+* **Free-Form shape**- Click once and drag. The cursor changes to an up-arrow to indicate that you're using free-form mode. As you drag the cursor around the 3D viewer, the outline of the shape follows the path of your cursor. If you're drawing a path, a line appears as a result. If you're drawing a polygon, a shape evolves from the path of your cursor, always connecting the beginning and ending points.
 ![Nyn10K loses her mind](https://s3-us-west-2.amazonaws.com/the-grid-img/p/866dd6854b0967ae886b82c6f0b3cb41281b33b7.png)
 
-null
+null =000\. 0000000001 2~teh~36th~negatory
+![The more sensuous line producedby machine](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f114bd58-e60c-41b3-95aa-7021a01bab26.png)
