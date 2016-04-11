@@ -1,6 +1,6 @@
 name: '    Walk to Threnody '
 favicon: null
-layout_spectrum: 0.743
+layout_spectrum: 0.99906
 typography_spectrum: 0.245
 title: The.permanent.record
 cta:
@@ -23,7 +23,7 @@ color:
     - '#564e46'
     - '#db3813'
   brandStrength: 0.5
-  lightness: 0.375
+  lightness: 0.125
   saturation: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0.5
 purpose: []
